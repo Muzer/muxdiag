@@ -1,0 +1,5 @@
+muxdiag.png CHANGELOG
+=====================
+
+2014-01-05/06: Updated diagrams to modern day (first change since 2011); many
+changes
