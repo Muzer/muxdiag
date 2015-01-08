@@ -1,5 +1,9 @@
 muxdiag.png CHANGELOG
 =====================
 
+2014-01-06: LCN64 Jewellery Maker's slot on COM7 transfers to LCN73 DAYSTAR.
+LCN63 Community closes temporarily on COM5/ARQ A, LCN126 Tiny Pop extends
+broadcasting hours to 0300-1900 using that space
+
 2014-01-05/06: Updated diagrams to modern day (first change since 2011); many
 changes
