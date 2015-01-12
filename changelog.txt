@@ -1,6 +1,9 @@
 muxdiag.png CHANGELOG
 =====================
 
+2014-01-12: LCN59 BT Sport 2 closes on COM6/ARQ B, LCN63 Community launches 24
+hours using that capacity.
+
 2014-01-07: LCN126 Tiny Pop extends broadcasting hours to 0300-0000 using
 space freed yesterday by the temporary closure of LCN63 Community on COM5/ARQ
 A.
