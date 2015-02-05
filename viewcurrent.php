@@ -24,6 +24,7 @@ if(empty($_GET["diag"]))
   echo '<p><a href="key.png">Key</a></p>';
   echo '<p><a href="mheg-captions-20110927">MHEG captions, broadcast on 2011-09-28 using rb-browser (so some may be glitched).</a></p>';
   echo '<h2>Historic versions</h2>';
+  echo '<p><a href="20150205">2015-02-05 version</a></p>';
   echo '<p><a href="20150112">2015-01-12 version</a></p>';
   echo '<p><a href="20150107">2015-01-07 version</a></p>';
   echo '<p><a href="20150106">2015-01-06 version</a></p>';
