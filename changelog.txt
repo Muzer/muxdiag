@@ -1,17 +1,20 @@
 muxdiag.png CHANGELOG
 =====================
 
-2014-01-12: LCN59 BT Sport 2 closes on COM6/ARQ B, LCN63 Community launches 24
+2015-02-05: LCN72 ITVBe+1 launches on COM4/SDN, broadcasting 0400-0600. LCN27
+ITV2 +1 hours reduced to 0600-0400 to accommodate this.
+
+2015-01-12: LCN59 BT Sport 2 closes on COM6/ARQ B, LCN63 Community launches 24
 hours using that capacity.
 
-2014-01-07: LCN126 Tiny Pop extends broadcasting hours to 0300-0000 using
+2015-01-07: LCN126 Tiny Pop extends broadcasting hours to 0300-0000 using
 space freed yesterday by the temporary closure of LCN63 Community on COM5/ARQ
 A.
 
-2014-01-06: LCN64 Jewellery Maker's slot on COM7 transfers to LCN73 DAYSTAR.
+2015-01-06: LCN64 Jewellery Maker's slot on COM7 transfers to LCN73 DAYSTAR.
 LCN63 Community closes temporarily on COM5/ARQ A, LCN126 Tiny Pop extends
 broadcasting hours to 0300-1900 using that space. Fix missing LCN26 ITVBe on
 COM4/SDN.
 
-2014-01-05/06: Updated diagrams to modern day (first change since 2011); many
+2015-01-05/06: Updated diagrams to modern day (first change since 2011); many
 changes.
