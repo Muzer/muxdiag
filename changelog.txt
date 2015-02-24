@@ -1,6 +1,8 @@
 muxdiag.png CHANGELOG
 =====================
 
+2015-02-24: LCN70 CBS Action moves to LCN64
+
 2015-02-05: LCN72 ITVBe+1 launches on COM4/SDN, broadcasting 0400-0600. LCN27
 ITV2 +1 hours reduced to 0600-0400 to accommodate this.
 
